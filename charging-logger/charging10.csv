@@ -1,0 +1,614 @@
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:43,34.8,3676,389404,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:45,34.8,3676,202942,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:46,34.8,3676,201721,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:47,34.8,3676,215454,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:48,34.8,3676,304260,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:49,34.8,3676,260009,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:50,34.8,3676,379944,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:51,34.8,3676,217895,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:52,34.8,3676,194702,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:53,34.8,3676,199279,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:54,34.8,3676,266113,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:55,34.7,3689,228576,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:56,34.7,3689,200195,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:58,34.7,3689,270996,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:48:59,34.7,3689,274658,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:00,34.7,3689,257263,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:01,34.7,3689,288086,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:02,34.7,3689,295105,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:03,34.7,3689,337219,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:04,34.7,3689,261841,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:05,34.7,3689,284118,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:06,34.7,3689,305176,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:07,34.7,3689,231323,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:08,34.7,3689,346069,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:09,34.7,3689,306091,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:11,34.7,3689,411682,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:12,34.7,3689,476379,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:13,34.7,3689,222778,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:14,34.7,3689,209045,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:15,34.7,3689,245666,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:16,34.7,3689,235290,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:17,34.7,3689,213623,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:18,34.7,3689,219116,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:19,34.7,3689,203552,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:20,34.7,3689,233764,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:21,34.7,3689,198059,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:22,34.7,3689,191040,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:23,34.7,3689,330810,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:25,34.7,3689,190124,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:26,34.7,3689,255127,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:27,34.7,3689,296936,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:28,34.7,3689,259399,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:29,34.7,3689,267944,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:30,34.7,3689,347900,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:31,34.7,3689,226440,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:32,34.7,3689,213928,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:33,34.7,3689,215149,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:34,34.7,3689,206604,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:35,34.7,3689,222473,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:36,34.7,3689,213623,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:38,34.7,3689,194397,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:39,34.7,3689,282287,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:40,34.7,3689,710449,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:41,34.7,3689,486145,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:42,34.7,3689,848389,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:43,34.7,3689,771179,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:44,34.7,3689,305176,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:45,34.7,3689,412903,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:46,34.7,3689,231018,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:47,34.7,3689,242004,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:48,34.7,3689,665894,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:49,34.7,3689,510864,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:50,34.7,3689,462646,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:51,34.7,3689,390014,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:52,34.7,3689,432434,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:53,34.7,3689,424499,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:54,34.7,3689,446472,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:56,34.7,3689,560608,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:57,34.7,3689,401611,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:58,34.7,3689,446777,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:49:59,34.7,3689,225830,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:00,34.7,3689,552368,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:01,34.7,3689,930786,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:02,34.7,3689,390625,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:03,34.7,3689,346985,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:04,34.7,3689,346374,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:05,34.7,3689,545349,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:06,34.7,3689,1010742,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:07,34.7,3689,250854,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:08,34.7,3689,205993,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:09,34.7,3689,197143,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:11,34.7,3689,315551,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:12,34.7,3689,206909,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:13,34.7,3689,220642,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:14,34.7,3689,520019,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:15,34.7,3689,292053,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:16,34.7,3689,208130,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:17,34.7,3689,405884,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:18,34.7,3689,292053,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:19,34.7,3689,292663,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:20,34.7,3689,277099,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:21,34.7,3689,256347,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:22,34.7,3689,404053,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:23,34.7,3689,339966,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:24,34.7,3689,338135,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:25,34.7,3689,368652,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:26,34.7,3689,393982,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:28,34.7,3689,295105,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:29,34.7,3689,432129,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:30,34.7,3689,367431,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:31,34.7,3689,343933,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:32,34.7,3689,409851,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:33,34.7,3689,335388,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:34,34.7,3689,221252,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:35,34.7,3689,266723,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:36,34.7,3689,322571,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:37,34.7,3689,468750,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:38,34.7,3689,353088,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:39,34.7,3689,583191,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:40,34.7,3689,223083,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:41,34.7,3689,305176,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:42,34.7,3689,205993,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:43,34.7,3689,337524,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:44,34.7,3689,303344,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:45,34.7,3689,288086,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:47,34.7,3689,256958,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:48,34.7,3689,259094,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:49,34.7,3689,236816,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:50,34.7,3689,357971,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:51,34.7,3689,257873,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:52,34.7,3689,281677,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:53,34.7,3689,209655,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:54,34.7,3689,215759,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:55,34.7,3689,292053,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:56,34.7,3689,301513,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:57,34.7,3689,266418,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:58,34.7,3689,270385,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:50:59,34.7,3689,240783,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:01,34.7,3689,382080,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:02,34.7,3689,343628,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:03,34.7,3689,253906,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:04,34.7,3689,251770,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:05,34.7,3689,1111145,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:06,34.7,3689,435486,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:07,34.7,3689,390014,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:08,34.7,3689,343017,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:09,34.7,3689,718079,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:10,34.7,3689,718994,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:11,34.7,3689,388489,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:12,34.7,3689,499878,23,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:13,34.7,3634,407409,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:14,34.7,3634,471191,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:15,34.7,3634,274658,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:17,34.7,3634,206604,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:18,34.7,3634,350342,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:19,34.7,3634,617676,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:20,34.7,3634,513916,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:21,34.7,3634,486145,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:22,34.7,3634,311584,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:23,34.7,3634,433655,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:24,34.7,3634,278930,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:25,34.7,3634,346985,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:26,34.7,3634,231628,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:27,34.7,3634,213012,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:28,34.7,3634,250244,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:29,34.7,3634,688782,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:30,34.7,3634,257263,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:31,34.7,3634,347900,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:33,34.7,3634,311279,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:34,34.7,3634,612793,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:35,34.7,3634,407715,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:36,34.7,3634,227661,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:37,34.7,3634,373230,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:38,34.7,3634,262146,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:39,34.7,3634,299072,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:40,34.7,3634,489807,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:41,34.7,3634,309753,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:42,34.7,3634,747070,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:43,34.7,3634,290222,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:44,34.7,3634,549621,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:45,34.7,3634,482178,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:46,34.7,3634,242920,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:47,34.7,3634,211792,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:48,34.7,3634,355224,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:49,34.7,3634,213318,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:50,34.7,3634,211181,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:52,34.7,3634,244445,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:53,34.7,3634,285644,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:54,34.7,3634,211792,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:55,34.7,3634,294494,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:56,34.7,3634,903931,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:57,34.7,3634,661621,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:58,34.7,3634,561218,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:51:59,34.7,3634,714417,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:00,34.7,3634,676575,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:01,34.7,3634,635986,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:02,34.7,3634,700989,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:03,34.7,3634,619507,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:04,34.7,3634,670471,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:05,34.7,3634,556030,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:06,34.7,3634,731201,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:07,34.7,3634,580749,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:08,34.7,3634,647278,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:09,34.7,3634,758972,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:10,34.7,3634,540466,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:11,34.7,3634,900574,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:12,34.7,3634,449829,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:13,34.7,3634,348510,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:15,34.7,3634,383301,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:16,34.7,3634,337829,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:17,34.7,3634,274658,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:18,34.7,3634,293579,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:19,34.7,3634,419922,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:20,34.7,3634,356140,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:21,34.7,3634,374756,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:22,34.7,3634,428467,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:23,34.7,3634,515442,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:24,34.7,3634,433655,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:25,34.7,3634,476990,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:26,34.7,3634,596008,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:27,34.7,3634,265197,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:28,34.7,3634,298767,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:29,34.7,3634,231933,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:30,34.7,3634,357971,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:31,34.7,3634,685730,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:33,34.7,3634,425720,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:34,34.7,3634,333252,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:35,34.7,3634,220642,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:36,34.7,3634,244751,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:37,34.7,3634,226135,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:38,34.7,3634,255737,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:39,34.7,3634,257568,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:40,34.7,3634,229187,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:41,34.7,3634,227966,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:42,34.7,3634,225525,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:43,34.7,3634,328064,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:44,34.7,3634,282898,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:45,34.7,3634,254821,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:47,34.7,3634,203857,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:48,34.7,3634,301208,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:49,34.7,3634,222778,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:50,34.7,3634,206604,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:51,34.7,3634,208130,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:52,34.7,3634,334167,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:53,34.7,3634,279236,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:54,34.7,3634,267029,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:55,34.7,3634,215149,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:56,34.7,3634,241699,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:57,34.7,3634,314941,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:58,34.7,3634,359192,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:52:59,34.7,3634,275879,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:01,34.7,3634,210876,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:02,34.7,3634,200805,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:03,34.7,3634,553894,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:04,34.7,3634,272216,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:05,34.7,3634,204162,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:06,34.7,3634,359497,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:07,34.7,3634,228271,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:08,34.7,3634,206909,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:09,34.7,3634,211792,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:10,34.7,3634,289917,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:11,34.7,3634,694275,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:12,34.7,3634,256958,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:13,34.7,3634,376892,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:14,34.7,3634,369262,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:15,34.7,3634,324096,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:17,34.7,3634,223999,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:18,34.7,3634,233764,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:19,34.7,3634,230713,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:20,34.7,3634,211792,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:21,34.7,3634,355224,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:22,34.7,3634,234069,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:23,34.7,3634,237426,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:24,34.7,3634,233154,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:25,34.7,3634,239257,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:26,34.7,3634,200500,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:27,34.7,3634,546265,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:28,34.7,3634,440368,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:29,34.7,3634,288391,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:30,34.7,3634,234375,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:32,34.7,3634,211181,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:33,34.7,3634,204162,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:34,34.7,3634,510559,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:35,34.7,3634,283508,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:36,34.7,3634,220642,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:37,34.7,3634,458984,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:38,34.7,3634,231628,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:39,34.7,3634,330810,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:40,34.7,3634,231628,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:41,34.7,3634,343628,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:42,34.7,3634,222473,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:44,34.7,3634,394897,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:45,34.7,3634,357971,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:46,34.7,3634,265503,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:47,34.7,3634,446777,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:48,34.7,3634,302124,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:49,34.7,3634,289001,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:50,34.7,3634,377502,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:51,34.7,3634,265197,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:52,34.7,3634,441589,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:53,34.7,3634,429687,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:54,34.7,3634,326538,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:55,34.7,3634,314636,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:56,34.7,3634,242920,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:57,34.7,3634,500488,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:53:58,34.7,3634,290527,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:00,34.7,3634,206909,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:01,34.7,3634,199890,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:02,34.7,3634,275573,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:03,34.7,3634,473633,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:04,34.7,3634,313415,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:05,34.7,3634,363769,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:06,34.7,3634,289001,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:07,34.7,3634,281982,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:08,34.7,3634,386352,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:09,34.7,3634,362549,22,1920520,DISCHARGING,UNPLUGGED
+timestamp,temperature,voltage,current,percentage,count,status,plugged
+2025-08-04 00:54:10,34.7,3634,382080,22,1920520,DISCHARGING,UNPLUGGED
