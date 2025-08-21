@@ -30,15 +30,13 @@ for i, category in enumerate(categories):
 
     df['timestamp'] = pd.to_datetime(df['timestamp'])
     df.sort_values(by='timestamp', inplace=True)
-
+    """
     for val in df['status'].unique():
         subset = df.loc[df['status']==val]
         axs[i].scatter(subset['timestamp'], subset['value'], 
                        label=val, s = 5)
-    
-    #axs[i].set_title(f'- {category.capitalize()}',
-    #                 loc = 'left',
-    #                 fontweight = 'bold')
+    """
+    axs[i].plot(df['timestamp'], df['value'], lw=.5, c='C1')
 
     axs[i].set_ylabel(category.capitalize(), fontweight = 'bold')
     axs[i].set_xlim(df['timestamp'].min(), df['timestamp'].max())
