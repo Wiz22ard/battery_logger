@@ -1,2 +1,8 @@
 push.py
 main.py
+.jupyter_ystore.db
+push.sh
+main.py
+plot.py
+voltage.png
+.ipynb_checkpoints
